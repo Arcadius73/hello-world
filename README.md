@@ -1,3 +1,5 @@
 # hello-world
 exercise
-Hi, i like computer technology
+
+Hi, i like computer technology.
+Bye.
